@@ -1,4 +1,4 @@
-public class ResultadoEscolar {
+public class CondicionalComposta {
     public static void main(String[] args) {
         int nota = 6;
 
